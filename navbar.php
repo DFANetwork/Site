@@ -9,7 +9,7 @@
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav pull-right">
         <li><a href="index.php">Accueil</a></li>
-        <li><a href="#">Nos offres</a></li>
+        <li><a href="products.php">Nos offres</a></li>
         <li><a href="#">Nous contacter</a></li>
         <li class="active"><a class="btn" href="signin.php">CONNEXION / INSCRIPTION</a></li>
       </ul>
