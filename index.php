@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
-	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
+	<meta name="author" content="Loan Jouffroy">
 
-	<title>Progressus - Free business bootstrap template by GetTemplate</title>
+	<title>DFA | Data From Anywhere</title>
 
 	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
 
@@ -31,11 +31,7 @@
 	<!-- Header -->
 	<header id="head">
 		<div class="container">
-			<div class="row">
-				<h1 class="lead">AWESOME, CUSTOMIZABLE, FREE</h1>
-				<p class="tagline">PROGRESSUS: free business bootstrap template by <a href="http://www.gettemplate.com/?utm_source=progressus&amp;utm_medium=template&amp;utm_campaign=progressus">GetTemplate</a></p>
-				<p><a class="btn btn-default btn-lg" role="button">MORE INFO</a> <a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
-			</div>
+			<h1 class="lead titre">DFA | Data From Anywhere</h1>
 		</div>
 	</header>
 	<!-- /Header -->
@@ -55,7 +51,7 @@
 	<div class="jumbotron top-space">
 		<div class="container">
 
-			<h3 class="text-center thin">Reasons to use this template</h3>
+			<h3 class="text-center thin" style="color:white">Reasons to use this template</h3>
 
 			<div class="row">
 				<div class="col-md-3 col-sm-6 highlight">
@@ -121,12 +117,6 @@
 				<p>Yes, I can. Please drop me a line to sergey-at-pozhilov.com and describe your needs in details. Please note, my services are not cheap.</p>
 			</div>
 		</div> <!-- /row -->
-
-		<div class="jumbotron top-space">
-			<h4>Dicta, nostrum nemo soluta sapiente sit dolor quae voluptas quidem doloribus recusandae facere magni ullam suscipit sunt atque rerum eaque iusto facilis esse nam veniam incidunt officia perspiciatis at voluptatibus. Libero, aliquid illum possimus numquam fuga.</h4>
-     		<p class="text-right"><a class="btn btn-primary btn-large">Learn more »</a></p>
-  		</div>
-
 </div>	<!-- /container -->
 
 	<!-- Social links. @TODO: replace by link/instructions in template -->

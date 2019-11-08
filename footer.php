@@ -8,7 +8,7 @@
           <h3 class="widget-title">Contact</h3>
           <div class="widget-body">
             <p>+234 23 9873237<br>
-              <a href="mailto:#">some.email@somewhere.com</a><br>
+              <a href="mailto:#">contact@dfanetwork.fr</a><br>
               <br>
               234 Hidden Pond Road, Ashland City, TN 37015
             </p>
@@ -46,11 +46,10 @@
         <div class="col-md-6 widget">
           <div class="widget-body">
             <p class="simplenav">
-              <a href="#">Home</a> |
-              <a href="about.html">About</a> |
-              <a href="sidebar-right.html">Sidebar</a> |
-              <a href="contact.html">Contact</a> |
-              <b><a href="signup.html">Sign up</a></b>
+              <a href="index.php">Accueil</a> |
+              <a href="products.php">Nos offres</a> |
+              <a href="#">Nous contacter</a> |
+              <b><a href="signin.php">CONNEXION / INSCRIPTION</a></b>
             </p>
           </div>
         </div>
@@ -58,7 +57,7 @@
         <div class="col-md-6 widget">
           <div class="widget-body">
             <p class="text-right">
-              Copyright &copy; 2014, Your name. Designed by <a href="http://gettemplate.com/" rel="designer">gettemplate</a>
+              Copyright &copy; 2019, Loan Jouffroy.
             </p>
           </div>
         </div>
