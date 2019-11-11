@@ -52,47 +52,51 @@
 							<h3 class="thin text-center">Créer un nouveau compte</h3>
 							<p class="text-center text-muted">Vous possedez déjà un compte? <a href="signin.php">Connectez-vous</a></p>
 							<hr>
-
-							<form>
-								<div class="top-margin">
-									<label>Prénom</label>
-									<input type="text" class="form-control">
-								</div>
-								<div class="top-margin">
-									<label>Nom</label>
-									<input type="text" class="form-control">
-								</div>
-								<div class="top-margin">
-									<label>Email<span class="text-danger">*</span></label>
-									<input type="text" class="form-control">
-								</div>
-								<div class="top-margin">
-									<label>Nom de l'entreprise</label>
-									<input type="text" class="form-control">
-								</div>
-
-								<div class="row top-margin">
-									<div class="col-sm-6">
-										<label>Mot de passe<span class="text-danger">*</span></label>
-										<input type="text" class="form-control">
+							<div id="erreur">
+							    <p>Vous n'avez pas rempli correctement les champs du formulaire !</p>
+							</div>
+							<form action="formulaire/s_inscrire.php" method="post">
+								<div class="form-row">
+									<div class="top-margin">
+										<label>Prénom</label>
+										<input type="text" class="form-control" name="prenom" id="prenom">
 									</div>
-									<div class="col-sm-6">
-										<label>Confirmer le mot de passe<span class="text-danger">*</span></label>
-										<input type="text" class="form-control">
+									<div class="top-margin">
+										<label>Nom</label>
+										<input type="text" class="form-control" name="nom" id="nom">
 									</div>
-								</div>
-
-								<hr>
-
-								<div class="row">
-									<div class="col-lg-8">
-										<label class="checkbox">
-											<input type="checkbox">
-											J'ai lu les <a href="page_terms.html">Termes et conditons</a>
-										</label>
+									<div class="top-margin">
+										<label>Email<span class="text-danger">*</span></label>
+										<input type="text" class="form-control" name="email" id="email">
 									</div>
-									<div class="col-lg-4 text-right">
-										<button class="btn btn-action" type="submit">Register</button>
+									<div class="top-margin">
+										<label>Nom de l'entreprise</label>
+										<input type="text" class="form-control" name="entreprise" id="entreprise">
+									</div>
+
+									<div class="row top-margin">
+										<div class="col-sm-6">
+											<label>Mot de passe<span class="text-danger">*</span></label>
+											<input type="password" class="form-control" name="mdp"  id="mdp">
+										</div>
+										<div class="col-sm-6">
+											<label>Confirmer le mot de passe<span class="text-danger">*</span></label>
+											<input type="password" class="form-control" id="confirmation">
+										</div>
+									</div>
+
+									<hr>
+
+									<div class="row">
+										<div class="col-lg-8">
+											<label class="checkbox">
+												<input type="checkbox" id="chk">
+												J'ai lu les <a href="page_terms.html">Termes et conditons</a>
+											</label>
+										</div>
+										<div class="col-lg-4 text-right">
+											<button class="btn btn-action" type="submit" id="envoi">S'inscrire</button>
+										</div>
 									</div>
 								</div>
 							</form>
@@ -115,5 +119,6 @@
 	<script src="assets/js/headroom.min.js"></script>
 	<script src="assets/js/jQuery.headroom.min.js"></script>
 	<script src="assets/js/template.js"></script>
+	<script src="assets/js/verif_form.js"></script>
 </body>
 </html>
