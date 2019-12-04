@@ -1,9 +1,12 @@
 <?php
-$link = mysqli_connect("localhost", "root", "root", "dfa");
+try
+{
+    $bdd = new PDO('mysql:host=localhost; dbname=dfa', 'root', 'root');
+}
 
-if (!$link) {
-    echo "Erreur : Impossible de se connecter à MySQL." . PHP_EOL;
-    exit;
+catch(Exception $e)
+{
+    die('Erreur : '.$e->getMessage());
 }
 
 ?>

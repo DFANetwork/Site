@@ -52,9 +52,6 @@
 							<h3 class="thin text-center">Créer un nouveau compte</h3>
 							<p class="text-center text-muted">Vous possedez déjà un compte? <a href="signin.php">Connectez-vous</a></p>
 							<hr>
-							<div id="erreur">
-							    <p>Vous n'avez pas rempli correctement les champs du formulaire !</p>
-							</div>
 							<form action="formulaire/s_inscrire.php" method="post">
 								<div class="form-row">
 									<div class="top-margin">

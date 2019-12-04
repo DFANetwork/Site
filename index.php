@@ -51,31 +51,32 @@
 	<div class="jumbotron top-space">
 		<div class="container">
 
-			<h3 class="text-center thin" style="color:white">Reasons to use this template</h3>
+			<h3 class="text-center thin" style="color:white">Nos services</h3>
 
 			<div class="row">
 				<div class="col-md-3 col-sm-6 highlight">
-					<div class="h-caption"><h4><i class="fa fa-cogs fa-5"></i>Bootstrap-powered</h4></div>
+					<div class="h-caption"><h4><i class="fa fa-cogs fa-5"></i>Sauvegardes Cloud</h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aliquid adipisci aspernatur. Soluta quisquam dignissimos earum quasi voluptate. Amet, dignissimos, tenetur vitae dolor quam iusto assumenda hic reprehenderit?</p>
+						<p>Notre équipe vous propose des systèmes de stockages sur notre cloud privé, ces derniers sont controlés 24/24h 7/7j de manière à prévenir tout incidents</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
-					<div class="h-caption"><h4><i class="fa fa-flash fa-5"></i>Fat-free</h4></div>
+					<div class="h-caption"><h4><i class="fa fa-flash fa-5"></i>Remotes Apps</h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, commodi, sequi quis ad fugit omnis cumque a libero error nesciunt molestiae repellat quos perferendis numquam quibusdam rerum repellendus laboriosam reprehenderit! </p>
+						<p>Votre PC n'est pas assez puissant pour faire tourner certains logiciel ?
+						   Nos serveurs peuvent repondre à ce besoin. Grâce à DFA votre PC bénéficie d'une connexion à distance pour utiliser n'importe quels logiciels demandant de grosses ressources matérielles</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
-					<div class="h-caption"><h4><i class="fa fa-heart fa-5"></i>Creative Commons</h4></div>
+					<div class="h-caption"><h4><i class="fa fa-heart fa-5"></i>Machines distantes</h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, vitae, perferendis, perspiciatis nobis voluptate quod illum soluta minima ipsam ratione quia numquam eveniet eum reprehenderit dolorem dicta nesciunt corporis?</p>
+						<p>Vous chercher à utiliser une machine puissante sans l'avoir chez vous ? DFA répond à vos attentes en mettant en place différentes machines</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-smile-o fa-5"></i>Author's support</h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, excepturi, maiores, dolorem quasi reprehenderit illo accusamus nulla minima repudiandae quas ducimus reiciendis odio sequi atque temporibus facere corporis eos expedita? </p>
+						<p>Vous souhaitez avoir la structure informatique d'une grosse entreprise ? DFA met à votre dispositon un réseau virtuel sur lequel vous pouvez créer votre réseau d'entreprise accessible depuis le monde entier</p>
 					</div>
 				</div>
 			</div> <!-- /row  -->

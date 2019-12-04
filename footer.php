@@ -7,10 +7,7 @@
         <div class="col-md-3 widget">
           <h3 class="widget-title">Contact</h3>
           <div class="widget-body">
-            <p>+234 23 9873237<br>
               <a href="mailto:#">contact@dfanetwork.fr</a><br>
-              <br>
-              234 Hidden Pond Road, Ashland City, TN 37015
             </p>
           </div>
         </div>
@@ -49,7 +46,7 @@
               <a href="index.php">Accueil</a> |
               <a href="products.php">Nos offres</a> |
               <a href="#">Nous contacter</a> |
-              <b><a href="signin.php">CONNEXION / INSCRIPTION</a></b>
+              <b><a href="signin.php">CONNEXION</a></b>
             </p>
           </div>
         </div>
@@ -57,7 +54,7 @@
         <div class="col-md-6 widget">
           <div class="widget-body">
             <p class="text-right">
-              Copyright &copy; 2019, Loan Jouffroy.
+              Copyright &copy; 2019, DFA Network.
             </p>
           </div>
         </div>

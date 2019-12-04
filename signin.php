@@ -53,14 +53,14 @@
 							<p class="text-center text-muted">Vous n'êtes pas encore inscrit ? <a href="signup.php">Inscription</a></p>
 							<hr>
 
-							<form>
+							<form action="formulaire/se_connecter.php" method="post">
 								<div class="top-margin">
 									<label>Email <span class="text-danger">*</span></label>
-									<input type="text" class="form-control">
+									<input type="text" class="form-control" name="email">
 								</div>
 								<div class="top-margin">
 									<label>Mot de pase <span class="text-danger">*</span></label>
-									<input type="password" class="form-control">
+									<input type="password" class="form-control" name="mdp">
 								</div>
 
 								<hr>
