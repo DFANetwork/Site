@@ -59,6 +59,7 @@ h3 {
 .parallax input[type="password"]:hover,
 .parallax textarea,
 .parallax textarea:hover {
+  border-color: white;
   font-weight: 300;
   color: #fff;
 }
@@ -343,7 +344,7 @@ section {
 
 .flou
 {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.7);
   padding-top: 5%;
   padding-bottom: 5%;
 }
@@ -868,7 +869,6 @@ section {
 
 #contact-us {
   background-image:url(../images/contact-bg.jpg);
-  padding-bottom: 90px;
 }
 
 #contact-us .heading {
